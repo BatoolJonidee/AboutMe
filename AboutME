@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>
+            Batool Al-Jonidee
+        </title>
+    </head>
+    <body>
+         <h1>Batool AL-Jonidee</h1> 
+         <p>this is 
+            <a href="https://www.linkedin.com/in/batool-al-jonidee-302a54279/" target="_blank">My LinkedIn</a>
+        </p>
+        <div>
+            My Hobbies:
+            <ul>
+                <li>learn</li>
+                <li>Sleep</li>
+                <li>walk</li>
+            </ul>
+        </div>  
+        <div>
+            The Most things i hate:
+            <ol>
+                <li>
+                    lie
+                </li>
+                <li>
+                    cook
+                </li>
+            </ol>
+        </div>
+   </body>
+</html>
